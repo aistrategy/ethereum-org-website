@@ -9,7 +9,7 @@ incomplete: true
 
 许多以太坊开发标准之一侧重于代币接口。 这些标准有助于确保智能合约仍然可以被撰写，例如，当新项目签发代币时，它与现有分散化的交易是兼容的。
 
-## 前体条件 {#prerequisites}
+## 前提条件 {#prerequisites}
 
 - [以太坊开发标准](/developers/docs/standards/)
 - [智能合约](/developers/docs/smart-contracts/)
