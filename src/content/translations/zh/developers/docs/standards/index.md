@@ -9,7 +9,7 @@ incomplete: true
 
 以太坊社区已经采用了许多标准，这有助于在项目的不同实现中保持统一的兼容性（例如[以太坊客户](/developers/docs/nodes-and-clients/)和钱包)，并确保智能合约和 dapps 仍保持兼容。
 
-通常，标准作为[以太坊改进提议](/eips/) (EIP) 提出，由社区成员通过[标准流程](https://eips.ethereum.org/EIPS/eip-1)讨论确定。
+通常，标准作为[以太坊改进提案](/eips/) (EIP) 提出，由社区成员通过[标准流程](https://eips.ethereum.org/EIPS/eip-1)讨论确定。
 
 - [EIPS 简介](/eips/)
 - [EIP 列表](https://eips.ethereum.org/)
